@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dperdomol/platzom.git"
+    "url": "git@github.com:dperdomol/platzomDP.git"
   },
   "keywords": [
-    "Platzom",
+    "PlatzomDP",
     "js",
     "javascript",
     "fundamentos"
